@@ -1,0 +1,9 @@
+Wkleiæ zadanie
+Pogrubiæ frg. w zadaniu
+spr. domy slny algorytm losuj¹cy w R
+Zrobiæ testy (chi^2)
+Napisaæ przy testach, ile obs. wygenerowaliœmy - problem w ogonach
+dlaczego problem w ogonach
+Przy testach startowaæ z tego samego ziarna, gdy badamy dla 100,200,300,...
+Uwzglêdniæ za³o¿enia przy testach
+Jak s¹ dziwnoœci, to je wyjasniæ
